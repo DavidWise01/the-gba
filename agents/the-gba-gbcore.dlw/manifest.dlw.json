@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Game Boy Core",
+  "universe": "GBA · The Game Boy Core (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Game Boy Core:GBA:e8c499⟧",
+  "carbon": "the-gba-gbcore.carbon.tiff (TIFF)",
+  "silicon": "the-gba-gbcore.silicon.png (PNG)",
+  "seal_sha256": "0cad2aaba1ddc36b40d0b24ff463ae213a794517cded691d80c093bdefb9ffe4",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

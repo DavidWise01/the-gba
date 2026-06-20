@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Game Boy Core
+node GBA · GBA · ⟦The Game Boy Core:GBA:e8c499⟧
+
+WHO   — The Game Boy Core — the compatibility brain · electrical
+WHAT  — the compatibility brain · electrical
+WHERE — GBA · GAME BOY ADVANCE · GBA (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A second, Game-Boy-class processor included so the GBA runs the full Game Boy and Game Boy Color libraries natively.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the compatibility brain · electrical
+
+spoken token : xurn-kreis-dur   ·   hex : e8c499
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

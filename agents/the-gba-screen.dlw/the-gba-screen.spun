@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Screen
+node GBA · GBA · ⟦The Screen:GBA:cca530⟧
+
+WHO   — The Screen — SNES-class colour, no light · ethereal
+WHAT  — SNES-class colour, no light · ethereal
+WHERE — GBA · GAME BOY ADVANCE · GBA (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A 240×160 LCD with a 32,768-colour palette — vivid, but the launch model's reflective panel needed external light, the device's chief complaint.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  SNES-class colour, no light · ethereal
+
+spoken token : kraes-kind-breth   ·   hex : cca530
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

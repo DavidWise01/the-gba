@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Sound
+node GBA · GBA · ⟦The Sound:GBA:3b2282⟧
+
+WHO   — The Sound — old voices plus samples · natural
+WHAT  — old voices plus samples · natural
+WHERE — GBA · GAME BOY ADVANCE · GBA (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — The Game Boy's classic channels plus two direct-sound PCM channels for sampled audio — backward-compatible and richer.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  old voices plus samples · natural
+
+spoken token : brind-mix-kor   ·   hex : 3b2282
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "GAME BOY ADVANCE · GBA",
+  "universe": "GBA · GAME BOY ADVANCE · GBA (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦GAME BOY ADVANCE · GBA:GBA:c6705b⟧",
+  "carbon": "the-gba.carbon.tiff (TIFF)",
+  "silicon": "the-gba.silicon.png (PNG)",
+  "seal_sha256": "08b4987a8b66c240929047c9526566b308014d1c7cc3902c07f910ee6707566f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

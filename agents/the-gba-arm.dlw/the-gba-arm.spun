@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The ARM7TDMI
+node GBA · GBA · ⟦The ARM7TDMI:GBA:212708⟧
+
+WHO   — The ARM7TDMI — 32-bit RISC, pocket-sized · electrical
+WHAT  — 32-bit RISC, pocket-sized · electrical
+WHERE — GBA · GAME BOY ADVANCE · GBA (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — An ARM7TDMI at ~16.78 MHz — a genuine 32-bit processor that brought near-SNES 2-D, including rotation and scaling, into a handheld.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  32-bit RISC, pocket-sized · electrical
+
+spoken token : kei-kem-grein   ·   hex : 212708
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

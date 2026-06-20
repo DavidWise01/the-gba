@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Sound",
+  "universe": "GBA · The Sound (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Sound:GBA:3b2282⟧",
+  "carbon": "the-gba-sound.carbon.tiff (TIFF)",
+  "silicon": "the-gba-sound.silicon.png (PNG)",
+  "seal_sha256": "79636d718464bfa0c8c05d5f7758aa67547f7d29bb169b802f124d56257e1da3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

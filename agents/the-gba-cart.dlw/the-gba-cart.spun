@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Cartridge
+node GBA · GBA · ⟦The Cartridge:GBA:a9885c⟧
+
+WHO   — The Cartridge — the game, and the save · natural
+WHAT  — the game, and the save · natural
+WHERE — GBA · GAME BOY ADVANCE · GBA (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Compact cartridges holding the ROM and save memory — and a slot that also accepted Game Boy cartridges for backward play.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the game, and the save · natural
+
+spoken token : das-xirn-virn   ·   hex : a9885c
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

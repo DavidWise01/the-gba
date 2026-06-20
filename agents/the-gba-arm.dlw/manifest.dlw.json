@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The ARM7TDMI",
+  "universe": "GBA · The ARM7TDMI (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The ARM7TDMI:GBA:212708⟧",
+  "carbon": "the-gba-arm.carbon.tiff (TIFF)",
+  "silicon": "the-gba-arm.silicon.png (PNG)",
+  "seal_sha256": "733d1f1934c6ea879e1724d68c00bc421911ec738ea0ef4486b25e1992920e72",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Video RAM",
+  "universe": "GBA · Video RAM (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦Video RAM:GBA:d11077⟧",
+  "carbon": "the-gba-vram.carbon.tiff (TIFF)",
+  "silicon": "the-gba-vram.silicon.png (PNG)",
+  "seal_sha256": "5e1ba7472785e030712632e309ebfaa7706d2db2d55528961f43e74da37c04d6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

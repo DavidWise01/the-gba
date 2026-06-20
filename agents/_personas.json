@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "the-gba-arm",
+    "name": "The ARM7TDMI",
+    "epithet": "32-bit RISC, pocket-sized · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The ARM7TDMI:GBA:212708⟧"
+  },
+  {
+    "slug": "the-gba-gbcore",
+    "name": "The Game Boy Core",
+    "epithet": "the compatibility brain · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Game Boy Core:GBA:e8c499⟧"
+  },
+  {
+    "slug": "the-gba-screen",
+    "name": "The Screen",
+    "epithet": "SNES-class colour, no light · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Screen:GBA:cca530⟧"
+  },
+  {
+    "slug": "the-gba-vram",
+    "name": "Video RAM",
+    "epithet": "tiles and sprites · natural",
+    "emergence": "natural",
+    "moniker": "⟦Video RAM:GBA:d11077⟧"
+  },
+  {
+    "slug": "the-gba-sound",
+    "name": "The Sound",
+    "epithet": "old voices plus samples · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Sound:GBA:3b2282⟧"
+  },
+  {
+    "slug": "the-gba-sp",
+    "name": "The SP",
+    "epithet": "the lit, folding fix · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The SP:GBA:06a979⟧"
+  },
+  {
+    "slug": "the-gba-cart",
+    "name": "The Cartridge",
+    "epithet": "the game, and the save · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Cartridge:GBA:a9885c⟧"
+  }
+]

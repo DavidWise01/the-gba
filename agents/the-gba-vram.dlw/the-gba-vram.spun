@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of Video RAM
+node GBA · GBA · ⟦Video RAM:GBA:d11077⟧
+
+WHO   — Video RAM — tiles and sprites · natural
+WHAT  — tiles and sprites · natural
+WHERE — GBA · GAME BOY ADVANCE · GBA (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — 96 KB of video RAM driving tiled backgrounds and sprites, with hardware rotation and scaling for SNES-style effects.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  tiles and sprites · natural
+
+spoken token : kand-greik-kal   ·   hex : d11077
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0
