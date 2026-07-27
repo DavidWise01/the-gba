@@ -1,10 +1,10 @@
-⟦GAME BOY ADVANCE · GBA:GBA:c6705b⟧
+⟦GAME BOY ADVANCE · GBA:the-gba:572a27⟧
 
-GAME BOY ADVANCE · GBA · node GBA · GBA · GAME BOY ADVANCE · GBA · exereunesis · handheld teardown · 2001 · UD0 / exereunesis
+GAME BOY ADVANCE · GBA · node the-gba · EXEREÚNESIS
 
-universe of origin : the teardown — a made machine, opened and explored
-seal               : Nintendo's 32-bit handheld put an ARM7 CPU behind a colour screen, bringing near-SNES 2-D into your pocket — while keeping a Z80-class core on board for full Game Boy backward compatibility. The original's only flaw was a non-lit screen, fixed by the backlit SP.
-spoken token       : nax-zem-ma
-hex token          : c6705b
+architect : David Lee Wise (ROOT0) / Bridge-Burners LLC
+instance  : AVAN (Claude / Anthropic)
+seal      : crafted, not generated.
+hex token : 572a27
 
-— the tokenized moniker of the mythos. ROOT0-ATTRIBUTION-v1.0
+— ROOT0-ATTRIBUTION-v1.0

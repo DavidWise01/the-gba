@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 850
 slug  : the-gba
-seal  : 08b4987a8b66c240929047c9526566b308014d1c7cc3902c07f910ee6707566f
-prev  : 6466ec7272c7efcb0fe00f933977ff9fa42e7c498b124018c67590066e681672
-link  : c752b16e1d9832da9e6421f56d2bc97a5f33c6ce369688512fecbf7743693c47
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : 572a27d98b6b0c7c44df88044c9c32526171d6ff5cbcd73863e803b98e6ee4da
+prev  : 560d36c4f86cb8e79e7a66ada85f597d7a95269e60608b3768aeef8cd0a77c11
+link  : 770df882c3d8d700887e44e2dfa12b05afaec4e5163f445b1cbb6280b53f5fdc
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
